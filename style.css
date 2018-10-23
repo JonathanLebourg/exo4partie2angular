@@ -1,0 +1,15 @@
+body{
+  font-family: 'Amatic SC';
+  background-color: #ca3c25;
+  font-size: 30px;
+}
+
+div{
+  display: block;
+  background-color: #e6aa68;
+  text-align: center;
+  padding: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 15px;
+}
